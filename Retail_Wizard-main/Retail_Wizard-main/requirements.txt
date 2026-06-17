@@ -1,0 +1,8 @@
+pandas
+openpyxl
+qrcode
+Pillow
+fpdf
+matplotlib
+bcrypt
+pyautogui
